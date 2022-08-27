@@ -1,4 +1,7 @@
 .main {
 	width: 100vw;
 	max-width: 1440px;
+	height: 100vh;
+	overflow-y: scroll;
+	scroll-behavior: smooth;
 }
